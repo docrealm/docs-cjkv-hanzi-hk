@@ -2,16 +2,15 @@
 
 ## Charset
 
-- 香港增补字符集（Hong Kong Supplementary Character Set, HKSCS）
+- 香港增补字符集（Hong Kong Supplementary Character Set，**HKSCS**）
     - [x] 1999年9月，HKSCS-1999
     - [x] 2001年12月，HKSCS-2001
     - [x] 2005年5月，HKSCS-2004
     - [x] 2009年12月，HKSCS-2008
     - [x] 2017年7月，HKSCS-2016
-- 【废止】政府通用字库（Government Common Character Set，GCCS）
+- 【废止】政府通用字库（Government Common Character Set，**GCCS**）
     - [ ] 1995年，第1版
-    - [x] 1999年，第2版草案（正式版更名为HKSCS）
-
+    - [x] 1999年，第2版草案（正式版更名为`HKSCS`）
 
 ## Character list
 
@@ -27,6 +26,9 @@
 - [ ] 2007年，香港小学学习字词表
     - 香港小學學習字詞表 [:link:](https://www.edbchinese.hk/lexlist_ch/index.jsp)
     - 中英對照香港學校中文學習基礎字詞 [:link:](https://www.edbchinese.hk/lexlist_en/index.jsp)
+    - [x] 2009年1月，香港小學學習字詞表-特殊教育需要補充篇
+
+- [x] 1990年，小學中國語文科（小一至小六課程綱要）
 
 ## Others
 
